@@ -1,16 +1,16 @@
-# smart_text_randomizer
+# smart-text-randomizer <sup>v0.0.3</sup>
 
-Smart Text Randomizer.
+Smart Text Randomizer
 
 ---
 
 [![PyPI Downloads](https://static.pepy.tech/badge/smart-text-randomizer)](https://pepy.tech/projects/smart-text-randomizer)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smart_text_randomizer)](https://github.com/smartlegionlab/smart_text_randomizer/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/smart_text_randomizer?label=pypi%20downloads)](https://pypi.org/project/smart_text_randomizer/)
-![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smart_text_randomizer)
-[![PyPI](https://img.shields.io/pypi/v/smart_text_randomizer)](https://pypi.org/project/smart_text_randomizer)
-[![GitHub](https://img.shields.io/github/license/smartlegionlab/smart_text_randomizer)](https://github.com/smartlegionlab/smart_text_randomizer/blob/master/LICENSE)
-[![PyPI - Format](https://img.shields.io/pypi/format/smart_text_randomizer)](https://pypi.org/project/smart_text_randomizer)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smart-text-randomizer)](https://github.com/smartlegionlab/smart-text-randomizer/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/smart-text-randomizer?label=pypi%20downloads)](https://pypi.org/project/smart-text-randomizer/)
+![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smart-text-randomizer)
+[![PyPI](https://img.shields.io/pypi/v/smart-text-randomizer)](https://pypi.org/project/smart-text-randomizer)
+[![GitHub](https://img.shields.io/github/license/smartlegionlab/smart-text-randomizer)](https://github.com/smartlegionlab/smart-text-randomizer/blob/master/LICENSE)
+[![PyPI - Format](https://img.shields.io/pypi/format/smart-text-randomizer)](https://pypi.org/project/smart-text-randomizer)
 
 ***
 
@@ -20,7 +20,7 @@ Author and developer: ___A.A. Suvorov.___
 
 ## What is news:
 
-smart_text_randomizer v0.0.2
+smart-text-randomizer v0.0.3
 
 - Fixed bugs.
 - Added documentation.
@@ -30,7 +30,7 @@ smart_text_randomizer v0.0.2
 
 ## Help:
 
-`pip install smart_text_randomizer`
+`pip install smart-text-randomizer`
 
 "Text randomization" or "variable text". It is used to create different variations of the same message.
 
@@ -99,7 +99,7 @@ print(randomized_text) # Good morning buddy!
     --------------------------------------------------------
     Licensed under the terms of the BSD 3-Clause License
     (see LICENSE for details).
-    Copyright © 2018-2024, A.A. Suvorov
+    Copyright © 2018-2025, A.A. Suvorov
     All rights reserved.
     --------------------------------------------------------
 
