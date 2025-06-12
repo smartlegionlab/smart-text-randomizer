@@ -1,4 +1,4 @@
-# smart-text-randomizer <sup>v0.0.3</sup>
+# smart-text-randomizer <sup>v0.0.4</sup>
 
 Smart Text Randomizer
 
@@ -20,7 +20,7 @@ Author and developer: ___A.A. Suvorov.___
 
 ## What is news:
 
-smart-text-randomizer v0.0.3
+smart-text-randomizer v0.0.4
 
 - Fixed bugs.
 - Added documentation.
