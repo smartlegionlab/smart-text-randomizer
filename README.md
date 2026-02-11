@@ -1,4 +1,4 @@
-# smart-text-randomizer <sup>v0.0.4</sup>
+# smart-text-randomizer <sup>v0.0.5</sup>
 
 Smart Text Randomizer
 
@@ -15,16 +15,6 @@ Smart Text Randomizer
 ***
 
 Author and developer: ___A.A. Suvorov.___
-
-***
-
-## What is news:
-
-smart-text-randomizer v0.0.4
-
-- Fixed bugs.
-- Added documentation.
-- Improved security. random was replaced with secrets.
 
 ***
 
@@ -99,7 +89,7 @@ print(randomized_text) # Good morning buddy!
     --------------------------------------------------------
     Licensed under the terms of the BSD 3-Clause License
     (see LICENSE for details).
-    Copyright © 2018-2025, A.A. Suvorov
+    Copyright © 2026, A.A. Suvorov
     All rights reserved.
     --------------------------------------------------------
 
