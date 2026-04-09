@@ -1,22 +1,30 @@
-# smart-text-randomizer <sup>v0.0.5</sup>
+# smart-text-randomizer <sup>v0.1.0</sup>
 
 Smart Text Randomizer
 
 ---
 
-[![PyPI Downloads](https://static.pepy.tech/badge/smart-text-randomizer)](https://pepy.tech/projects/smart-text-randomizer)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smart-text-randomizer)](https://github.com/smartlegionlab/smart-text-randomizer/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/smart-text-randomizer?label=pypi%20downloads)](https://pypi.org/project/smart-text-randomizer/)
 ![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smart-text-randomizer)
-[![PyPI](https://img.shields.io/pypi/v/smart-text-randomizer)](https://pypi.org/project/smart-text-randomizer)
 [![GitHub](https://img.shields.io/github/license/smartlegionlab/smart-text-randomizer)](https://github.com/smartlegionlab/smart-text-randomizer/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/smartlegionlab/smart-text-randomizer?style=social)](https://github.com/smartlegionlab/smart-text-randomizer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/smartlegionlab/smart-text-randomizer?style=social)](https://github.com/smartlegionlab/smart-text-randomizer/network/members)
+[![PyPI Downloads](https://static.pepy.tech/badge/smart-text-randomizer)](https://pepy.tech/projects/smart-text-randomizer)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/smart-text-randomizer?label=pypi%20downloads)](https://pypi.org/project/smart-text-randomizer/)
+[![PyPI](https://img.shields.io/pypi/v/smart-text-randomizer)](https://pypi.org/project/smart-text-randomizer)
 [![PyPI - Format](https://img.shields.io/pypi/format/smart-text-randomizer)](https://pypi.org/project/smart-text-randomizer)
 
-***
+---
 
-Author and developer: ___A.A. Suvorov.___
+## ⚠️ Disclaimer
 
-***
+**By using this software, you agree to the full disclaimer terms.**
+
+**Summary:** Software provided "AS IS" without warranty. You assume all risks.
+
+**Full legal disclaimer:** See [DISCLAIMER.md](https://github.com/smartlegionlab/smart-text-randomizer/blob/master/DISCLAIMER.md)
+
+---
 
 ## Help:
 
@@ -68,28 +76,12 @@ randomized_text = TextRandomizer.randomize(text)
 print(randomized_text) # Good morning buddy!
 ```
 
-***
+---
 
-## Disclaimer of liability:
+## License
 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-    AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-    IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-    DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-    FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-    SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-    CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-    OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+**[BSD 3-Clause License](https://github.com/smartlegionlab/smart-text-randomizer/blob/master/LICENSE)**
 
-***
+Copyright (©) 2026, [Alexander Suvorov](https://github.com/smartlegionlab)
 
-## Copyright:
-    --------------------------------------------------------
-    Licensed under the terms of the BSD 3-Clause License
-    (see LICENSE for details).
-    Copyright © 2026, A.A. Suvorov
-    All rights reserved.
-    --------------------------------------------------------
-
+---

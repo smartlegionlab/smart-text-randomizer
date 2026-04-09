@@ -8,5 +8,5 @@
 # --------------------------------------------------------
 """Smart text randomizer."""
 from .text_randomizers import TextRandomizer
-__version__ = '0.0.5'
+__version__ = '0.1.0'
 __author__ = 'Alexander Suvorov'
